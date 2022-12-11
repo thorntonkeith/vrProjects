@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class HandPresenceScript : MonoBehaviour 
+public class HandPresencePhysics : MonoBehaviour 
 {
     public Transform target;
     private Rigidbody rb;
